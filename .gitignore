@@ -1,0 +1,6 @@
+# vim
+.backup
+.undo
+*.un~
+*.swp
+
